@@ -9,7 +9,7 @@ def start():
             "C) multiply \n"
             "D) divide \n"
             "help) as the na,e suggests, help command is to get help \n"
-        )
+        ) #code by Dev Varun 
 
     def manual():
         print(
